@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Essien-SM
-- 👀 I’m interested in musics, games, graphc designing, coding, 
+- 👀 I’m interested in musics, games, graphic designing, coding, 
 - 🌱 I’m currently learning django 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me fb: Stephen Mensah, ig: Stephen Mensah, WhatsApp: +233553053239
